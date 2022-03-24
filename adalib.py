@@ -31,107 +31,57 @@ Example response
    "results":[
       {
          "source":"Yelp",
-         "name":"Noma",
-         "phone":"+45 32 96 32 97",
-         "price":"$$$$",
-         "rating":4.5,
-         "review_count":37,
+         "name":"School House Restaurant & Tavern",
+         "phone":"(559) 787-3271",
+         "price":"$$",
+         "rating":4.0,
+         "review_count":507,
          "location":[
-            "Refshalevej 96",
-            "1432 K\u00f8benhavn",
-            "Denmark"
+            "1018 S Frankwood Ave",
+            "Sanger, CA 93657"
          ],
          "business_status":"-",
          "website":"-",
          "comment_count":"-",
          "share_count":"-",
-         "description":"-"
+         "description":"-",
+         "url":"https://www.yelp.com/biz/school-house-restaurant-and-tavern-sanger-3?adjust_creative=c_q8ZW1Lhf3fTNJWYqvlUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=c_q8ZW1Lhf3fTNJWYqvlUw",
+         "weekday_text":"['Wednesday: 16:00 - 20:00', 'Thursday: 16:00 - 20:00', 'Friday: 16:00 - 20:00', 'Saturday: 16:00 - 20:00', 'Sunday: 16:00 - 20:00']"
       },
       {
          "source":"Yelp",
-         "name":"H\u00f8st",
-         "phone":"+45 89 93 84 09",
-         "price":"$$$",
-         "rating":4.5,
-         "review_count":229,
+         "name":"Dog House Grill",
+         "phone":"(559) 294-9920",
+         "price":"$$",
+         "rating":4.0,
+         "review_count":2332,
          "location":[
-            "N\u00f8rre Farimagsgade 41",
-            "1364 K\u00f8benhavn K",
-            "Denmark"
+            "2789 E Shaw Ave",
+            "Fresno, CA 93710"
          ],
          "business_status":"-",
          "website":"-",
          "comment_count":"-",
          "share_count":"-",
-         "description":"-"
-      },
-      {
-         "source":"Yelp",
-         "name":"Studio",
-         "phone":"+45 72 14 88 08",
-         "price":"$$$$",
-         "rating":4.5,
-         "review_count":41,
-         "location":[
-            "Havnegade 44",
-            "1058 Copenhagen",
-            "Denmark"
-         ],
-         "business_status":"-",
-         "website":"-",
-         "comment_count":"-",
-         "share_count":"-",
-         "description":"-"
-      },
-      {
-         "source":"Yelp",
-         "name":"Barr",
-         "phone":"+45 32 96 32 93",
-         "price":"$$$",
-         "rating":4.5,
-         "review_count":42,
-         "location":[
-            "Strandgade 93",
-            "1401 K\u00f8benhavn",
-            "Denmark"
-         ],
-         "business_status":"-",
-         "website":"-",
-         "comment_count":"-",
-         "share_count":"-",
-         "description":"-"
-      },
-      {
-         "source":"Yelp",
-         "name":"Geranium",
-         "phone":"+45 69 96 00 20",
-         "price":"$$$$",
-         "rating":4.5,
-         "review_count":86,
-         "location":[
-            "Per Henrik Lings All\u00e9 4, 8.",
-            "2100 Copenhagen",
-            "Denmark"
-         ],
-         "business_status":"-",
-         "website":"-",
-         "comment_count":"-",
-         "share_count":"-",
-         "description":"-"
+         "description":"-",
+         "url":"https://www.yelp.com/biz/dog-house-grill-fresno-2?adjust_creative=c_q8ZW1Lhf3fTNJWYqvlUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=c_q8ZW1Lhf3fTNJWYqvlUw",
+         "weekday_text":"['Monday: 11:00 - 21:00', 'Tuesday: 11:00 - 21:00', 'Wednesday: 11:00 - 21:00', 'Thursday: 11:00 - 22:00', 'Friday: 11:00 - 22:00', 'Saturday: 11:00 - 22:00', 'Sunday: 11:00 - 21:00']"
       },
       {
          "source":"Google",
-         "name":"Noma",
-         "phone":"32 96 32 97",
-         "price":4,
-         "rating":4.6,
-         "review_count":1523,
-         "location":"Refshalevej 96, 1432 K\u00f8benhavn K, Denmark",
+         "name":"Main Street Grill",
+         "phone":"(650) 726-5300",
+         "price":null,
+         "rating":4.5,
+         "review_count":404,
+         "location":"547 Main St, Half Moon Bay, CA 94019, USA",
          "business_status":"OPERATIONAL",
-         "website":"https://noma.dk/",
+         "website":"https://www.mainstreetgrillhmb.com/",
          "comment_count":"-",
          "share_count":"-",
-         "description":"-"
+         "description":"-",
+         "url":"https://maps.google.com/?cid=5399955144204974389",
+         "weekday_text":"['Monday: 7:30 AM \u2013 2:00 PM', 'Tuesday: 7:30 AM \u2013 2:00 PM', 'Wednesday: Closed', 'Thursday: 7:30 AM \u2013 2:00 PM', 'Friday: 7:30 AM \u2013 2:00 PM', 'Saturday: 7:30 AM \u2013 2:00 PM', 'Sunday: 7:30 AM \u2013 2:00 PM']"
       },
       {
          "source":"Facebook",
@@ -139,13 +89,15 @@ Example response
          "phone":"-",
          "price":"-",
          "rating":"-",
-         "review_count":655,
+         "review_count":0,
          "location":"-",
          "business_status":"-",
-         "website":"https://noma.dk/",
-         "comment_count":406,
-         "share_count":1180,
-         "description":"Welcome Dear friends and guests, We are incredibly happy to be allowed to reopen the doors of noma, now that restrictions have eased in Denmark. In this moment, we are eager to connect with our community, and to celebrate summer in the best (and safest) way we can. Our reopening will happen in two s\u2026"
+         "website":"https://www.mainstreetgrillhmb.com/",
+         "comment_count":0,
+         "share_count":0,
+         "description":null,
+         "url":"-",
+         "weekday_text":"-"
       }
    ],
    "errors":[
